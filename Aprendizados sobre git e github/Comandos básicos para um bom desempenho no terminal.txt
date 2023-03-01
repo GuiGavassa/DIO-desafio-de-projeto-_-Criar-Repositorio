@@ -1,0 +1,31 @@
+GUI x CLI
+
+Graphic User Interface
+(Interface gráfica como um programa)
+
+Command line interface
+(Linhas de códigos como um terminal)
+
+
+
+Comandos básicos
+
+Para mostrar o diretório que está:
+dir
+
+
+
+Para navegar entre as pastas:
+
+cd / (eu entro na pasta primária do sistema
+
+cd Windows (eu entro na pasta do windows)
+
+cd .. (volto uma pasta)
+
+Para limpar o terminal:
+cls ou clear
+
+Para criar uma pasta
+
+mkdir workspace

@@ -1,0 +1,33 @@
+Crie um repositório:
+
+Crie uma pasta nova, para o repositório.
+
+mkdir nome-do-repositorio
+
+Entre na pasta
+
+cd nome-do-repositorio
+
+Inicie o git:
+
+git init
+
+
+
+Antes de dar commit, é preciso configurar.
+
+git config --global user.email “seu@email.com”
+
+git config --global user.name SeuNome
+
+
+
+Para dar commit:
+
+Selecione todos os itens
+
+git add *
+
+Dar o commit
+
+git commit -m “primeiro commit

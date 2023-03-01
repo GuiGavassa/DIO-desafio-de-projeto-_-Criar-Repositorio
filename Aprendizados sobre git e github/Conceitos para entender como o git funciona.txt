@@ -1,0 +1,6 @@
+SHA1 → Secure Hash Algorithm
+
+Algoritmo que pega o arquivo e embaralha de uma forma muito específica.
+
+A encriptação gera um conjunto de caracteres identificador de 40 dígitos.
+

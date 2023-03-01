@@ -1,0 +1,26 @@
+Uma ferramenta de versionamento de código.
+
+Criado por Linus Torvalds.
+
+
+
+Exemplificação:
+
+- Imagine uma situação em que você tem uma redação, porém, sempre que ela é entregue, há alguma modificação para ser feita.
+Portanto, em algum momento, você teria arquivos como redação1.txt, redação2.txt, redaçãofinal.txt redaçãofinalmesmo.txt.
+
+O Git impede que isso aconteça.
+
+
+
+Características
+
+Controle de Versão
+
+Armazenamento em nuvem
+
+Trabalho em equipe
+
+Melhorar seu código
+
+Reconhecimento
